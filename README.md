@@ -59,7 +59,7 @@ Whether you're a curious novice or a seasoned engineer, embark on this adventure
 - Go to file in Collab and click on "save a copy in drive"
 - Happy Sigala!
 
-##Cntributions
+## Contributions
 Feel free to contribute. I am just a pull request away from you.
 <!-- Contact -->
 ## Contact
