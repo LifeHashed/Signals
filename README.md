@@ -1,9 +1,9 @@
 <!-- Project Title -->
-<h1 align="center">Your Project Name</h1>
+<h1 align="center">SignalsAndSystem101</h1>
 
 <!-- Project Description -->
 <p align="center">
-  A brief and enticing description of your project.
+  This project follows the working and events of Signals and System laboratory of NIT-DGP. Classmates are welcome to get the help as and when required
 </p>
 
 <!-- Badges (Optional) -->
