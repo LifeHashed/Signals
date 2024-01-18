@@ -47,37 +47,31 @@ Whether you're a curious novice or a seasoned engineer, embark on this adventure
 <!-- Features -->
 ## Features
 
-- Concisely list the key features of your project.
+- Representation of various Signals
+- Understanding the way to work on Signals
 
 <!-- Getting Started -->
 ## Getting Started
 
-Provide instructions on how to get the project up and running on the local machine.
+- Open the repo
+- Click on the ipynb notebook.(Signals#? for example)
+- Click on Open in Collab
+- Go to file in Collab and click on "save a copy in drive"
+- Happy Sigala!
 
-<!-- Usage -->
-## Usage
-
-Include examples and code snippets demonstrating how to use your project.
-
-<!-- Contributing -->
-## Contributing
-
-Explain how others can contribute to your project. Include guidelines for pull requests and code contributions.
-
-<!-- License -->
-## License
-
-Specify the license under which your project is distributed.
-
+##Cntributions
+Feel free to contribute. I am just a pull request away from you.
 <!-- Contact -->
 ## Contact
 
-Provide your contact information or links to social media profiles.
+Phn:9831911890 (+91)
+Instagram: @collosalmistake
+
 
 <!-- Acknowledgements (Optional) -->
 ## Acknowledgements
 
-Give credit to any resources or individuals that inspired or helped you during the development.
+Signals and Systems Lab Instructors of NIT-DGP
 
 <!-- Footer -->
 <footer align="center">
